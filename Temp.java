@@ -10,8 +10,5 @@ public class Temp extends Applet
 {
     public void paint(Graphics g)
     {
-
-
-
     }
 }
